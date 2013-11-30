@@ -1,4 +1,4 @@
-<h1>Setting up Mint 15 (Olivia)</h1>
+<h1>Setting up Mint 15 (Olivia) </h1>
 <section>
     <ul>
         <li>File mods
@@ -13,7 +13,7 @@
                 <li>x2goclient</li>
                 <li>mysql - server</li>
                 <li>phpmyadmin</li>
-                <li>mantis</li>
+                <li>mantis/youtrack</li>
                 <li>php5 - xdebug</li>
                 <li>wine</li>
                 <li>tomcat6</li>
